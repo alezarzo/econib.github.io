@@ -8,6 +8,7 @@ header:
   caption: ""
 classes: wide
 ---
+
 # INTERCON 
 
 ## Integrating interactions into Species Distribution Models for effective biodiversity conservation
@@ -18,9 +19,11 @@ The <a href="https://becarios.fundacionlacaixa.org/en/web/guest/fellows/alejandr
       INTERCON
     </a> project aims to integrate biotic interactions (such as predation and competition) into SDMs for carnivores, with the goal of producing more accurate predictions to inform and support effective conservation strategies, focusing in the Iberian Peninsula.
 
-<img src="/econibe.github.io/assets/images/StoatSDM.jpg"
-     alt="IBERENV environmental variables"
-     style="width: 100%; max-width: 800px; display: block; margin: 20px auto;">
+- [INTERCON](#intercon)
+  - [IBERENV](#iberenv)
+  - [Camera trap monitoring of the stoat](#camera-trap-monitoring-of-the-stoat)
+  - [Ecological forecasting tools](#ecological-forecasting-tools)
+
      
 
 ### IBERENV: Database of environmental variables for the Iberian Peninsula at 10km and 1km
@@ -60,3 +63,8 @@ Development of reproducible pipelines for biodiversity prediction.
 - Open-source workflows
 - GIS integration
 - Model benchmarking
+
+
+<img src="/econibe.github.io/assets/images/StoatSDM.jpg"
+     alt="IBERENV environmental variables"
+     style="width: 100%; max-width: 800px; display: block; margin: 20px auto;">
