@@ -24,6 +24,7 @@ The <a href="https://becarios.fundacionlacaixa.org/en/web/guest/fellows/alejandr
   - [Ecological forecasting tools](#ecological-forecasting-tools)
 
      
+---
 
 ### IBERENV: Database of environmental variables for the Iberian Peninsula at 10km and 1km
 
@@ -41,6 +42,7 @@ We are currently developing a pool of variables at a 10km and 1km grid resolutio
 
 ---
 
+
 ### Camera trap monitoring of the stoat (Mustela erminea)
 
 <img src="/econibe.github.io/assets/images/Mostela1.jpeg"
@@ -54,6 +56,7 @@ Wildlife monitoring using camera trap networks to study and update the distribut
 - Sample with camera and mostela traps grids with high predicted probability of presence
 
 ---
+
 
 ### Ecological forecasting tools
 
