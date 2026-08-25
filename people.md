@@ -45,7 +45,6 @@ author_profile: false
     <p><b>Hugo Díez Santaolalla</b><br>
     <span style="font-size:0.8em; color:gray;">Universidade de Lisboa, ce3c</span></p>
   </div>
-</div>
 
 <div style="display:flex; gap:30px; flex-wrap:wrap;">
   <div style="width:150px; text-align:center;">
@@ -54,6 +53,7 @@ author_profile: false
     <p><b>Afonso Nunez Barrocal</b><br>
     <span style="font-size:0.8em; color:gray;">Universidade de Lisboa, ce3c</span></p>
   </div>
+  
 </div>
 
 # Master students
