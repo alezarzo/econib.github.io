@@ -9,6 +9,10 @@ header:
 classes: wide
 ---
 
+<h1 id="intercon">INTERCON</h1>
+
+<h2 id="intercon-description">Integrating interactions into Species Distribution Models for effective biodiversity conservation</h2>
+
 # INTERCON 
 ## Integrating interactions into Species Distribution Models for effective biodiversity conservation
 
