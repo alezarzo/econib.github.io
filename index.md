@@ -11,11 +11,17 @@ classes: wide
 ---
 
 <style>
+.author__avatar {
+  width: 200px !important;
+  height: 200px !important;
+}
+
 .author__avatar img {
   width: 200px !important;
   height: 200px !important;
+  max-width: none !important;
   object-fit: cover;
-  border-radius: 50%; 
+  border-radius: 50%;
 }
 </style>
 
