@@ -26,7 +26,7 @@ The <a href="https://becarios.fundacionlacaixa.org/en/web/guest/fellows/alejandr
      
 ---
 
-### IBERENV: Database of environmental variables for the Iberian Peninsula at 10km and 1km
+### <h3 id="iberenv"> IBERENV: Database of environmental variables for the Iberian Peninsula at 10km and 1km
 
 <img src="/econibe.github.io/assets/images/Variables.jpg"
      alt="IBERENV environmental variables"
@@ -43,7 +43,7 @@ We are currently developing a pool of variables at a 10km and 1km grid resolutio
 ---
 
 
-### Camera trap monitoring of the stoat (Mustela erminea)
+### <h3 id="camera-trap-monitoring-of-the-stoat"> Camera trap monitoring of the stoat (Mustela erminea)
 
 <img src="/econibe.github.io/assets/images/Mostela1.jpeg"
      alt="Mostela camera trap"
@@ -58,7 +58,7 @@ Wildlife monitoring using camera trap networks to study and update the distribut
 ---
 
 
-### Ecological forecasting tools
+### <h3 id="ecological-forecasting-tools"> Ecological forecasting tools: Species Distribution Models
 
 Development of reproducible pipelines for biodiversity prediction.
 
