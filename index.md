@@ -15,6 +15,7 @@ classes: wide
   width: 200px !important;
   height: 200px !important;
   object-fit: cover;
+  border-radius: 50%;
 }
 </style>
 
