@@ -21,6 +21,10 @@ The <a href="https://becarios.fundacionlacaixa.org/en/web/guest/fellows/alejandr
 
 ### IBERENV: Database of environmental variables for the Iberian Peninsula at 10km and 1km
 
+<img src="/econibe.github.io/assets/images/Variables.jpg"
+     alt="IBERENV environmental variables"
+     style="width: 100%; max-width: 800px; display: block; margin: 20px auto;">
+     
 We are currently developing a pool of variables at a 10km and 1km grid resolution for the entire Iberian Peninsula related to:
 
 - Topography
