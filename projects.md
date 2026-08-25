@@ -10,7 +10,6 @@ classes: wide
 ---
 
 # INTERCON 
-
 ## Integrating interactions into Species Distribution Models for effective biodiversity conservation
 
 The <a href="https://becarios.fundacionlacaixa.org/en/web/guest/fellows/alejandra-zarzo-arias-B006514"
