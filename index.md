@@ -10,6 +10,14 @@ author_profile: true
 classes: wide
 ---
 
+<style>
+.author__avatar img {
+  width: 200px !important;
+  height: 200px !important;
+  object-fit: cover;
+}
+</style>
+
 <p align="left">
 <img src="{{ '/assets/images/Prueba2.jpg' | relative_url }}" width="600">
 </p>
