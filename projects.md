@@ -16,7 +16,7 @@ The <a href="https://becarios.fundacionlacaixa.org/en/web/guest/fellows/alejandr
        target="_blank"
        rel="noopener noreferrer">
       INTERCON
-    </a> project aims to integrate biotic interactions (such as predation and competition) into SDMs for carnivores, with the goal of producing more accurate predictions to inform and support effective conservation strategies, focusing in the Iberian Peninsula.
+    </a>project aims to integrate biotic interactions (such as predation and competition) into SDMs for carnivores, with the goal of producing more accurate predictions to inform and support effective conservation strategies, focusing in the Iberian Peninsula.
 
 
   - [IBERENV](#iberenv)
