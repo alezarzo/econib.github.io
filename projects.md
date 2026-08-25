@@ -19,7 +19,7 @@ The <a href="https://becarios.fundacionlacaixa.org/en/web/guest/fellows/alejandr
       INTERCON
     </a> project aims to integrate biotic interactions (such as predation and competition) into SDMs for carnivores, with the goal of producing more accurate predictions to inform and support effective conservation strategies, focusing in the Iberian Peninsula.
 
-- [INTERCON](#intercon)
+
   - [IBERENV](#iberenv)
   - [Camera trap monitoring of the stoat](#camera-trap-monitoring-of-the-stoat)
   - [Ecological forecasting tools](#ecological-forecasting-tools)
