@@ -41,7 +41,7 @@ We are currently developing a pool of variables at a 10km and 1km grid resolutio
 
 ### Camera trap monitoring of the stoat (Mustela erminea)
 
-<img src="/econibe.github.io/assets/images/Mostela1.jpg"
+<img src="/econibe.github.io/assets/images/Mostela1.jpeg"
      alt="IBERENV environmental variables"
      style="width: 100%; max-width: 800px; display: block; margin: 20px auto;">
 
