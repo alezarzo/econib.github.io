@@ -57,13 +57,13 @@ author_profile: false
 </div>
 
 # Master students
-<div style="display:flex; gap:30px; flex-wrap:wrap;">
+  <div style="display:flex; gap:30px; flex-wrap:wrap;">
   
-<div style="width:150px; text-align:center;">
+  <div style="width:150px; text-align:center;">
     <img src="{{ '/assets/images/.jpeg' | relative_url }}" 
       style="width:150px; height:150px; border-radius:50%; object-fit:cover;">
     <p><b>Guilherme Mendes</b><br>
-    <span style="font-size:0.8em; color:gray;">Universidade de Lisboa</span></p>
+      <span style="font-size:0.8em; color:gray;">Universidade de Lisboa</span></p>
   </div>
 
 </div>
