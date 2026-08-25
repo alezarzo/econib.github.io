@@ -18,6 +18,10 @@ The <a href="https://becarios.fundacionlacaixa.org/en/web/guest/fellows/alejandr
       INTERCON 
     </a> project aims to integrate biotic interactions (such as predation and competition) into SDMs for carnivores, with the goal of producing more accurate predictions to inform and support effective conservation strategies, focusing in the Iberian Peninsula.
 
+<img src="/econibe.github.io/assets/images/StoatSDM.jpg"
+     alt="IBERENV environmental variables"
+     style="width: 100%; max-width: 800px; display: block; margin: 20px auto;">
+     
 
 ### IBERENV: Database of environmental variables for the Iberian Peninsula at 10km and 1km
 
@@ -37,6 +41,11 @@ We are currently developing a pool of variables at a 10km and 1km grid resolutio
 
 ### Camera trap monitoring of the stoat (Mustela erminea)
 
+<img src="/econibe.github.io/assets/images/Mostela1.jpg"
+     alt="IBERENV environmental variables"
+     style="width: 100%; max-width: 800px; display: block; margin: 20px auto;">
+
+     
 Wildlife monitoring using camera trap networks to study and update the distribution and knowledge of the stoat in the Cantabrian Mountains and the Pyrenees. We will focus on:
 
 - Developing SDMs with prey distribution
