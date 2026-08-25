@@ -48,7 +48,7 @@ author_profile: false
 
 <div style="display:flex; gap:30px; flex-wrap:wrap;">
   <div style="width:150px; text-align:center;">
-    <img src="{{ '/assets/images/Afonso.jpeg' | relative_url }}" 
+    <img src="{{ '/assets/images/Afonso.jpg' | relative_url }}" 
       style="width:150px; height:150px; border-radius:50%; object-fit:cover;">
     <p><b>Afonso Nunez Barrocal</b><br>
     <span style="font-size:0.8em; color:gray;">Universidade de Lisboa, ce3c</span></p>
