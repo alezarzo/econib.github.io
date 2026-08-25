@@ -51,10 +51,10 @@ author_profile: false
     <img src="{{ '/assets/images/Afonso.jpg' | relative_url }}" 
       style="width:150px; height:150px; border-radius:50%; object-fit:cover;">
     <p><b>Afonso Nunez Barrocal</b><br>
-    <span style="font-size:0.8em; color:gray;">Universidade de Lisboa, ce3c</span></p>
-  </div>
+      <span style="font-size:0.8em; color:gray;">Universidade de Lisboa, ce3c</span></p>
+    </div>
   
-</div>
+  </div>
 
 # Master students
 <div style="width:150px; text-align:center;">
