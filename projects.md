@@ -9,10 +9,6 @@ header:
 classes: wide
 ---
 
-<h1 id="intercon">INTERCON</h1>
-
-<h2 id="intercon-description">Integrating interactions into Species Distribution Models for effective biodiversity conservation</h2>
-
 # INTERCON 
 ## Integrating interactions into Species Distribution Models for effective biodiversity conservation
 
@@ -30,7 +26,7 @@ The <a href="https://becarios.fundacionlacaixa.org/en/web/guest/fellows/alejandr
      
 ---
 
-### <h3 id="iberenv"> IBERENV: Database of environmental variables for the Iberian Peninsula at 10km and 1km
+<a id="iberenv"> ###  IBERENV: Database of environmental variables for the Iberian Peninsula at 10km and 1km
 
 <img src="/econibe.github.io/assets/images/Variables.jpg"
      alt="IBERENV environmental variables"
@@ -47,7 +43,7 @@ We are currently developing a pool of variables at a 10km and 1km grid resolutio
 ---
 
 
-### <h3 id="camera-trap-monitoring-of-the-stoat"> Camera trap monitoring of the stoat (Mustela erminea)
+<a id="camera-trap-monitoring-of-the-stoat"> ### Camera trap monitoring of the stoat (Mustela erminea)
 
 <img src="/econibe.github.io/assets/images/Mostela1.jpeg"
      alt="Mostela camera trap"
