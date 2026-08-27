@@ -29,7 +29,7 @@ The <a href="https://becarios.fundacionlacaixa.org/en/web/guest/fellows/alejandr
 
 <img src="/econibe.github.io/assets/images/Variables.jpg"
      alt="IBERENV environmental variables"
-     style="width: 100%; max-width: 800px; display: block; margin: 20px auto;">
+     style="width: 100%; max-width: 600px; display: block; margin: 20px auto;">
      
 We are currently developing a pool of variables at a 10km and 1km grid resolution for the entire Iberian Peninsula related to:
 
@@ -46,7 +46,7 @@ We are currently developing a pool of variables at a 10km and 1km grid resolutio
 
 <img src="/econibe.github.io/assets/images/Mostela1.jpeg"
      alt="Mostela camera trap"
-     style="width: 100%; max-width: 800px; display: block; margin: 20px auto;">
+     style="width: 100%; max-width: 600px; display: block; margin: 20px auto;">
 
      
 Wildlife monitoring using camera trap networks to study and update the distribution and knowledge of the stoat in the Cantabrian Mountains and the Pyrenees. We will focus on:
@@ -68,4 +68,4 @@ Development of reproducible pipelines for biodiversity prediction.
 
 <img src="/econibe.github.io/assets/images/StoatSDM.jpg"
      alt="Stoat graph"
-     style="width: 100%; max-width: 800px; display: block; margin: 20px auto;">
+     style="width: 100%; max-width: 600px; display: block; margin: 20px auto;">
