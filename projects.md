@@ -57,7 +57,7 @@ Wildlife monitoring using camera trap networks to study and update the distribut
 ---
 
 
-<h3 id="ecological-forecasting-tools"> Ecological forecasting tools: Species Distribution Models
+<a id="ecological-forecasting-tools"> Ecological forecasting tools: Species Distribution Models
 
 Development of reproducible pipelines for biodiversity prediction.
 
