@@ -13,7 +13,8 @@ classes: wide
 ## Preprints
 
 
-## In Press
+## Accepted
+- Mallo Robla, M., **Zarzo-Arias, A.**, Russo, L. F., Delgado, M. M., Benjumea, R., González-Bernardo, E., Torres-Romero, E. J., de la Riva, I., Delibes, M., Alonso, D. & Penteriani, V. (2026). Behaviour of the Eurasian otter (lutra lutra) at latrine sites along a gradient of human pressure: an ethological approach. Journal of Ethology.
 
 
 ## 2026
