@@ -2,7 +2,7 @@
 layout: single
 title: "EcoNIbe"
 header:
-  overlay_image: /assets/images/AleArrabida.jpg
+  overlay_image: /assets/images/AleArrabida.jpeg
   overlay_filter: 0.7
   caption: ""
 author: eco
