@@ -3,7 +3,7 @@ layout: home
 title: "Publications"
 permalink: /publications/
 header:
-  overlay_image: /assets/images/Tanzania.jpg
+  overlay_image: /assets/images/AleArrabida.jpeg
   overlay_filter: 0.7
   caption: ""
 classes: wide
