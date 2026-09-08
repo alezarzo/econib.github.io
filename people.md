@@ -4,7 +4,7 @@ title: "People"
 permalink: /people/
 author_profile: false
 header:
-  overlay_image: /assets/images/Tanzania.jpg
+  overlay_image: /assets/images/AleArrabida.jpg
   overlay_filter: 0.7
   caption: ""
 classes: wide
